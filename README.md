@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is project is centered on **User-Service** which is a microservice responsible for
+This project is centered on **User-Service** which is a microservice responsible for
 managing user-related data and functionality.
 It provides a centralized user authentication, authorization, and profile management.
 
